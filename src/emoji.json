@@ -1,0 +1,34 @@
+{
+   "emoji": [
+                {
+                    "id" : 1,
+                    "name" : "smiley",
+                    "emoji" : "😀"
+                },
+                {
+                     "id" : 2,
+                     "name" : "happy",
+                     "emoji" : "😂"
+                },
+                {
+                    "id" : 2,
+                    "name" : "laughing",
+                    "emoji" : "😂"
+                },
+                {
+                    "id" : 3,
+                    "name" : "angry",
+                    "emoji" : "😡"
+                },
+                {
+                    "id" : 4,
+                    "name" : "sad",
+                    "emoji" : "😔"
+                },
+                {
+                    "id" : 5,
+                    "name" : "sleeping",
+                    "emoji" : "😴"
+                }
+  ]
+}

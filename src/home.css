@@ -1,0 +1,40 @@
+/* main {
+  text-align: center;
+  vertical-align: center;
+  line-height: 100vh;
+} */
+
+div{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+h1{
+  font-size: 40px;
+}
+
+input{
+  width: 800px;
+  height: 40px;
+  font-size: 20px;
+}
+
+button{
+  width: 100px;
+  height: 40px;
+  font-size: 20px;
+}
+
+ul{
+  list-style-type: none;
+}
+
+li{
+  font-size: 25px;
+  line-height: 40px;
+}
+hr{
+  width: 775px;
+}
